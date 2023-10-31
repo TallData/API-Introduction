@@ -1,6 +1,6 @@
 # OpenWeatherMap API Introduction
 
-![Weather Icon](https://your-image-link.com/weather-icon.png)
+![Weather Icon](https://www.pngwing.com/en/free-png-bptmy)
 
 This repository is a comprehensive guide to using the OpenWeatherMap API to retrieve weather data for any location. Whether you're a developer looking to integrate weather data into your applications or just curious about how to fetch weather information, this guide will walk you through the process.
 
